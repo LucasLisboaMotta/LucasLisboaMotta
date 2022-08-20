@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Lucas Lisboa</h1>
-<h3 align="center">Estudante de desenvolvimento web Full Stack</h3>
+<h3 align="center">Desenvolvedor web Full Stack</h3>
 <hr>
 
 <h3 align="center">Linguagens e ferramentas:</h3>
